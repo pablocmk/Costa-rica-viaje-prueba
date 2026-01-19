@@ -1,7 +1,5 @@
-'use client';
-
-import React, { useState, useEffect } from 'react';
-import { Plus, Trash2, Info, Lock, Eye, EyeOff, MapPin, Clock, AlertTriangle } from 'lucide-react';
+import React, { useState } from 'react';
+import { Plus, Trash2, Info, Lock, Eye, EyeOff, MapPin, AlertTriangle } from 'lucide-react';
 
 // Datos de rutas (matriz completa)
 const routeData = {
