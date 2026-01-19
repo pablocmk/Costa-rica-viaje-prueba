@@ -1,5 +1,3 @@
-"use client";
-
 import React, { useState } from 'react';
 import { Plus, Trash2, Info, Lock, Eye, EyeOff, MapPin, AlertTriangle } from 'lucide-react';
 
